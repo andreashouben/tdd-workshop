@@ -9,5 +9,6 @@ Uses:
 
 To run the tests start:
 `npm test`
+
 To use watch mode run:
 `npm test:watch`
