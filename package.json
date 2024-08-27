@@ -23,6 +23,7 @@
     "vitest": "^2.0.5"
   },
   "lint-staged": {
-    "**/*": "eslint --fix && prettier --write --ignore-unknown"
+    "*.ts": "eslint",
+    "**/*": "prettier --write --ignore-unknown"
   }
 }

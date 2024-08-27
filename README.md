@@ -12,3 +12,5 @@ To run the tests start:
 
 To use watch mode run:
 `npm test:watch`
+
+[![Node.js CI](https://github.com/andreashouben/tdd-workshop/actions/workflows/node.js.yml/badge.svg)](https://github.com/andreashouben/tdd-workshop/actions/workflows/node.js.yml)
